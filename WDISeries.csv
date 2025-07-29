@@ -1,0 +1,11 @@
+age,region,job,marital,education,balance,has_loan,account_type,bank_branch
+25,Casablanca,student,single,bachelor,1200,no,current,Casa-Center
+32,Rabat,engineer,married,master,8500,no,savings,Rabat-Agdal
+45,Tanger,manager,married,phd,15200,yes,savings,Tanger-Mnara
+28,Marrakech,teacher,single,licence,3400,no,current,Marrakech-Gueliz
+39,Fes,entrepreneur,married,master,7700,yes,current,Fes-Medina
+50,Agadir,retired,widowed,secondary,9900,no,savings,Agadir-City
+23,Oujda,unemployed,single,none,300,yes,current,Oujda-Nahda
+36,Kenitra,technician,married,bachelor,4400,no,current,Kenitra-Center
+29,Tetouan,call_center,single,secondary,2300,no,current,Tetouan-Madina
+41,Casablanca,self-employed,divorced,bachelor,10100,yes,savings,Casa-SidiMaarouf
